@@ -1,0 +1,71 @@
+.font {
+background-color:Red;
+
+}
+
+.font_2 {
+	background-color:Blue;
+	
+	
+}
+
+.font_3 {
+	text-shadow: 6px 1px 5px Black;
+	
+}
+
+.font_4 {
+color: Aqua;
+text-shadow: 6px 1px 4px Blue;
+
+
+}
+
+ul {
+	font-size:40px;
+	
+	
+	
+}
+
+a {
+	color:Lime;
+	text-decoration:none;
+	
+}
+a:hover {
+	color:Green;
+	background-color:GreenYellow;
+	border:1px solid Lime;
+	font-size: 60px
+}
+
+
+
+header {
+	align-self:flex-start;
+	margin:20px;
+	
+}
+
+li {
+	color:Black;
+	
+	
+}
+
+li:hover {
+color:White;
+font-size:75px;
+
+
+
+}	
+
+
+
+
+
+
+
+
