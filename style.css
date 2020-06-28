@@ -29,18 +29,20 @@ ul {
 }
 
 a {
-	color:Lime;
+	color:Black;
 	text-decoration:none;
+	font-size:40px;
+	transition-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55);
+	transition-duration:2s;
+	border-radius: 9px;
+	padding: 9px;
 	
 }
 a:hover {
-	color:Green;
-	background-color:GreenYellow;
-	border:1px solid Lime;
-	font-size: 60px
+	color:White;
+	background-color:MediumSlateBlue;
+	font-size: 50px
 }
-
-
 
 header {
 	align-self:flex-start;
