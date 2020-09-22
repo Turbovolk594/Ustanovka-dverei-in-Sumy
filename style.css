@@ -15,7 +15,7 @@ background-color:Red;
 }
 
 .font_4 {
-color: Aqua;
+color:Chartreuse;
 text-shadow: 6px 1px 4px Blue;
 
 
@@ -63,6 +63,18 @@ font-size:75px;
 
 
 }	
+
+
+.stoim {
+    padding: 10px;
+    margin: 30px
+    
+}
+
+
+.photo {
+    background-color: red
+}
 
 
 
